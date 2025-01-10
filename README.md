@@ -43,4 +43,28 @@
 </div>
 <br>
 
+
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Nerve model</h3>
+<div align="center">
+<a href="https://github.com/lintec-unt/nerve-model" target="_blank"><img src="https://github.com/rmserra/proyecto-de-graduacion/blob/main/nerve-banner.png"></a>
+<p>
+<a href="https://github.com/lintec-unt/nerve-model" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>My bachelor's degree project in Biomedical Engineering, titled 'Simulations of Electrophysiological Activity in a Bundle of Myelinated Nerve Fibers. </p>
+</div>
+                                                                                      
+</td>
+
+                                            
+</table>                                                                                 
+</div>
+<br>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
