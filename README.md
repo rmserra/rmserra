@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Bellabeat Case Study</h3>
+<h3 align="center">Bellabeat case study</h3>
 <div align="center">
 <a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank"><img src="https://github.com/rmserra/google-bellabeat-case-study/blob/main/imagesREADME/bellabeat-banner.png"></a>
 <p>
@@ -62,6 +62,19 @@
                                                                                       
 </td>
 
+<td width="50%">
+               <br>
+<h3 align="center">Buenos Aires subways</h3>
+<div align="center">                                       
+<a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank"><img src="https://github.com/rmserra/buenos-aires-subways/blob/main/subways-banner.jpg"></a>
+<br>
+<p>
+<a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Analysis of the trips made on all subway lines in Buenos Aires City during August 2024.</p>
+</div>       
                                             
 </table>                                                                                 
 </div>
