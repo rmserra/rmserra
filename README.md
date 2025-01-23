@@ -10,6 +10,8 @@
 
 ## What I've been working on:
 
+<!-- First table -->
+
 <table>
 <tr>
 <td width="50%">
@@ -45,7 +47,7 @@
 
 
 
-
+<!-- Second table -->
 <table>
 <tr>
 <td width="50%">
@@ -80,4 +82,27 @@
 </div>
 <br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- Third table -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Tableau projects</h3>
+<div align="center">
+<a href="https://github.com/rmserra/tableau-projects" target="_blank"><img src="https://github.com/rmserra/tableau-projects/blob/main/Tableau-Logo.jpg"></a>
+<p>
+<a href="https://github.com/rmserra/tableau-projects" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>This repository contains my visualizations and analyses created using Tableau.</p>
+</div>
+                                                                                      
+</td>
+
+
+                                            
+</table>                                                                                 
+</div>
+<br>
