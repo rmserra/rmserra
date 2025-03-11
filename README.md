@@ -1,6 +1,6 @@
 # 💫 Hi there, I'm Micaela!
 
-👩🏻‍💻 Exploring and marveling more each day at the fascinating world of IT <br/><br>👩🏻‍🎓 Studied [Biomedical Engineering](https://www.facet.unt.edu.ar/ingbiomedica/) at Universidad Nacional de Tucumán, Argentina<br/><br>🌱 Currently learning about data analytics<br/><br>📫 How to reach me: serra.rosamicaela@gmail.com<br/>
+👩🏻‍💻 Exploring and marveling more each day at the fascinating world of IT <br/><br>👩🏻‍🎓 Studied [Biomedical Engineering](https://www.facet.unt.edu.ar/ingbiomedica/) at Universidad Nacional de Tucumán, Argentina<br/><br>🌱 Currently learning about data science<br/><br>📫 How to reach me: serra.rosamicaela@gmail.com<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-micaela-serra/) 
