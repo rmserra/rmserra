@@ -16,94 +16,86 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Software Quality Assurance Portfolio</h3>
+<div align="center">
+<a href="https://github.com/rmserra/manual-qa-testing" target="_blank"><img src="./images/qa.png" width="50%"></a>
+<p>
+<a href="https://github.com/rmserra/manual-qa-testing" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>This repository contains manual QA test cases and documentation for different applications and platforms.</p>
+</div>
+</td>
+
+<td width="50%">
 <h3 align="center">Bellabeat case study</h3>
 <div align="center">
-<a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank"><img src="https://github.com/rmserra/google-bellabeat-case-study/blob/main/imagesREADME/bellabeat-banner.png"></a>
+<a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank"><img src="./images/bellabeat.png" width="50%"></a>
 <p>
 <a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Final project for the Google Data Analytics Professional Certificate. </p>
-</div>
-                                                                                      
+</div>                                                                                  
 </td>
+</tr>
 
+<tr>
 <td width="50%">
-               <br>
 <h3 align="center">Taylor Swift discography analysis project</h3>
 <div align="center">                                       
-<a href="https://github.com/rmserra/taylorswift-analysis-python" target="_blank"><img src="https://github.com/rmserra/taylorswift-analysis-python/blob/main/images/taylor-banner.png"></a>
-<br>
+<a href="https://github.com/rmserra/taylorswift-analysis-python" target="_blank"><img src="./images/taylor.png" width="50%"></a>
 <p>
 <a href="https://github.com/rmserra/taylorswift-analysis-python" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>This project analyzes Taylor Swift's discography, aiming to provide insights into the aspects of her albums and songs that make her music so attractive to listeners.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+<p>This project analyzes Taylor Swift's discography, aiming to provide insights into the aspects of her albums and songs that make her music so attractive to listeners.</p>
+</div>  
+</td>
 
-
-
-<!-- Second table -->
-<table>
-<tr>
 <td width="50%">
 <h3 align="center">Nerve model</h3>
 <div align="center">
-<a href="https://github.com/lintec-unt/nerve-model" target="_blank"><img src="https://github.com/rmserra/proyecto-de-graduacion/blob/main/nerve-banner.png"></a>
+<a href="https://github.com/lintec-unt/nerve-model" target="_blank"><img src="./images/nerve.png" width="50%"></a>
 <p>
 <a href="https://github.com/lintec-unt/nerve-model" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>My bachelor's degree project in Biomedical Engineering, titled 'Simulations of Electrophysiological Activity in a Bundle of Myelinated Nerve Fibers. </p>
-</div>
-                                                                                      
+<p>My bachelor's degree project in Biomedical Engineering, titled 'Simulations of Electrophysiological Activity in a Bundle of Myelinated Nerve Fibers'.</p>
+</div>                                                                                      
 </td>
+</tr>
 
+<tr>
 <td width="50%">
-               <br>
 <h3 align="center">Buenos Aires subways</h3>
 <div align="center">                                       
-<a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank"><img src="https://github.com/rmserra/buenos-aires-subways/blob/main/subways-banner.jpg"></a>
-<br>
+<a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank"><img src="./images/subway.jpg" width="50%"></a>
 <p>
 <a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Analysis of the trips made on all subway lines in Buenos Aires City during August 2024.</p>
+<p>Analysis of the trips made on all subway lines in Buenos Aires City during August 2024.</p>
 </div>       
-                                            
-</table>                                                                                 
-</div>
-<br>
+</td>
 
-
-
-<!-- Third table -->
-<table>
-<tr>
 <td width="50%">
 <h3 align="center">Tableau projects</h3>
 <div align="center">
-<a href="https://github.com/rmserra/tableau-projects" target="_blank"><img src="https://github.com/rmserra/tableau-projects/blob/main/Tableau-Logo.jpg"></a>
+<a href="https://github.com/rmserra/tableau-projects" target="_blank"><img src="./images/tableau.jpg" width="50%"></a>
 <p>
 <a href="https://github.com/rmserra/tableau-projects" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>This repository contains my visualizations and analyses created using Tableau.</p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>
-
-
-                                            
-</table>                                                                                 
-</div>
+</tr>
+</table>
 <br>
