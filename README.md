@@ -18,20 +18,20 @@
 <td width="50%">
 <h3 align="center">Software Quality Assurance Portfolio</h3>
 <div align="center">
-<a href="https://github.com/rmserra/manual-qa-testing" target="_blank"><img src="./images/qa.png" width="50%"></a>
+<a href="https://github.com/rmserra/manual-qa-testing" target="_blank"><img src="./images/qa.png" width="100%"></a>
 <p>
 <a href="https://github.com/rmserra/manual-qa-testing" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>This repository contains manual QA test cases and documentation for different applications and platforms.</p>
+<p>Manual QA test cases and documentation for different platforms.</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Bellabeat case study</h3>
 <div align="center">
-<a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank"><img src="./images/bellabeat.png" width="50%"></a>
+<a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank"><img src="./images/bellabeat.png" width="100%"></a>
 <p>
 <a href="https://github.com/rmserra/google-bellabeat-case-study" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -46,7 +46,7 @@
 <td width="50%">
 <h3 align="center">Taylor Swift discography analysis project</h3>
 <div align="center">                                       
-<a href="https://github.com/rmserra/taylorswift-analysis-python" target="_blank"><img src="./images/taylor.png" width="50%"></a>
+<a href="https://github.com/rmserra/taylorswift-analysis-python" target="_blank"><img src="./images/taylor.png" width="100%"></a>
 <p>
 <a href="https://github.com/rmserra/taylorswift-analysis-python" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">Nerve model</h3>
 <div align="center">
-<a href="https://github.com/lintec-unt/nerve-model" target="_blank"><img src="./images/nerve.png" width="50%"></a>
+<a href="https://github.com/lintec-unt/nerve-model" target="_blank"><img src="./images/nerve.png" width="100%"></a>
 <p>
 <a href="https://github.com/lintec-unt/nerve-model" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -74,7 +74,7 @@
 <td width="50%">
 <h3 align="center">Buenos Aires subways</h3>
 <div align="center">                                       
-<a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank"><img src="./images/subway.jpg" width="50%"></a>
+<a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank"><img src="./images/subway.png" width="100%"></a>
 <p>
 <a href="https://github.com/rmserra/buenos-aires-subways/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -87,7 +87,7 @@
 <td width="50%">
 <h3 align="center">Tableau projects</h3>
 <div align="center">
-<a href="https://github.com/rmserra/tableau-projects" target="_blank"><img src="./images/tableau.jpg" width="50%"></a>
+<a href="https://github.com/rmserra/tableau-projects" target="_blank"><img src="./images/tableau.png" width="100%"></a>
 <p>
 <a href="https://github.com/rmserra/tableau-projects" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
