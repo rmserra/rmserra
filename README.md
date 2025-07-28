@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Software Quality Assurance Portfolio</h3>
 <div align="center">
-<a href="https://github.com/rmserra/manual-qa-testing" target="_blank"><img src="./images/qa.png" width="100%"></a>
+<a href="https://github.com/rmserra/manual-qa-testing" target="_blank"><img src="./images/sqa.png" width="100%"></a>
 <p>
 <a href="https://github.com/rmserra/manual-qa-testing" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
